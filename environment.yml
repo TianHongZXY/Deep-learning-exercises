@@ -7,3 +7,5 @@ dependencies:
     - matplotlib
     - pandas
     - tensorflow
+    - keras
+    - math
